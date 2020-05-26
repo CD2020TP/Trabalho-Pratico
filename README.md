@@ -4,9 +4,12 @@
 Este trabalho foi realizado no ambito da disciplina de Comunicacao de Dados.
 
 Alunos:
-Joao Barros 14363
-Marco Henriquesa 16961
-Joao Soares 16967
+* Joao Barros 14363
+* Marco Henriquesa 16961
+* Joao Soares 16967
+
+Docente:
+* Michael Matias
 
 
 Face ao mais recente episódio de Covid-19, foi decretado estado de emergência com várias medidas, entre
