@@ -18,20 +18,21 @@ mais direcionado para jogos digitais. Pretende-se desenvolver uma aplicação, m
 instituições de ensino, que possam vir a integrar com as respetivas plataformas de ensino, numa futura
 fase. 
 
-##Regras de negócio##
+## Regras de negócio ##
  Como utilizador, deverei poder criar uma conta indicando se sou estudante ou professor, qual o
 curso e unidade curricular que estou a frequentar
  Como utilizador, deverei poder fazer login com o meu utilizador registado
  Como utilizador deverei poder comunicar e falar com outros alunos e professores via chat no
 grupo em que me encontrar 
 
-##Especificações técnicas##
- A aplicação deverá ser desenvolvido em C#
- A aplicação pode ser desenvolvida em consola
- Deverá ser possível correr comandos se a aplicação for em consola, para que seja possível mudar
+## Especificações técnicas ##
+
+*A aplicação deverá ser desenvolvido em C#
+* A aplicação pode ser desenvolvida em consola
+* Deverá ser possível correr comandos se a aplicação for em consola, para que seja possível mudar
 de sala, entre outros. E.g. “/goto Lobby” ou “/list groups” ou “/list students”;
- O sistema de comunicação deverá ser feito com recursos ao System.Network do C# com recurso
+* O sistema de comunicação deverá ser feito com recursos ao System.Network do C# com recurso
 a comunicações TCP e UDP
- Pretende-se que sejam capturadas exceções para proceder à gestão e tratamento das mesmas 
+*Pretende-se que sejam capturadas exceções para proceder à gestão e tratamento das mesmas 
 
 
